@@ -24,3 +24,8 @@ Therefore, there may be code for toddlers in our implementation. This is also in
 我们尽量使用最简单的数据结构去实现，应该不会有类，可能会有 map ，因此它的性能可能不会极高，更多的是要表述清楚我们的想法，没有类也就意味着有些结构体可能会比较冗长。
 
 We try to use the simplest data structure to implement it, there should be no classes, there may be maps, so its performance may not be extremely high. More importantly, we need to express our ideas clearly. Without classes, some structures may be lengthy.
+
+不过这门语言主要还是以实用为主。我们应该会以它为基础开发邮件相关的程序以及一个小型的跨目标语言的 3D 小游戏示例。这其实也是笔者开发这门语言的最初目的。
+
+However, this language is mainly focused on practicality. We should be able to develop email related programs and a small cross target language 3D game example based on it. This is actually the original purpose of the author developing this language.
+
