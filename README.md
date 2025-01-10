@@ -16,3 +16,11 @@ C3Lang strives for simplicity in implementation, in order to quickly implement i
 我们还有一个目标：基本上它应该能作为一个编译原理的入门示例。因为在中文世界里编译原理的教程都太太糟糕了。不过很难知道未来会发生什么。
 
 We also have a goal: basically it should serve as an introductory example of compilation principles. Because the tutorials on compilation principles in the Chinese world are terrible. However, it is difficult to know what will happen in the future.
+
+因此，我们实现里可能会留有蹒跚学步的代码，这也是有意为之。
+
+Therefore, there may be code for toddlers in our implementation. This is also intentional.
+
+我们尽量使用最简单的数据结构去实现，应该不会有类，可能会有 map ，因此它的性能可能不会极高，更多的是要表述清楚我们的想法，没有类也就意味着有些结体可能会比较冗长。
+
+We try to use the simplest data structure to implement it, there should be no classes, there may be maps, so its performance may not be extremely high. More importantly, we need to express our ideas clearly. Without classes, some structures may be lengthy.
