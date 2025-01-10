@@ -29,3 +29,7 @@ We try to use the simplest data structure to implement it, there should be no cl
 
 However, this language is mainly focused on practicality. We should be able to develop email related programs and a small cross target language 3D game example based on it. This is actually the original purpose of the author developing this language.
 
+实现代码中不会包含正则表达式，虽然现在很流行这样做。因为你应该自己实现正则表达式，一个原因是 typescript 使用了太多的正则表达式，导致它不能在某些 js 环境中使用，我们希望能避免这种情况。
+
+The implementation code will not include regular expressions, although it is now very popular to do so. Because you should implement regular expressions yourself, one reason is that typescript uses too many regular expressions, which makes it unable to be used in certain JavaScript environments. We hope to avoid this situation.
+
