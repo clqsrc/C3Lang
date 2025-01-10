@@ -33,3 +33,9 @@ However, this language is mainly focused on practicality. We should be able to d
 
 The implementation code will not include regular expressions, although it is now very popular to do so. Because you should implement regular expressions yourself, one reason is that typescript uses too many regular expressions, which makes it unable to be used in certain JavaScript environments. We hope to avoid this situation.
 
+我想，它最后会有一个以 vscode 为基础的代码编辑器，我会设计一个 ui ide 与之配合，因为大家可以从其他项目中看到我太擅长 ui 库开发了 :)
+
+I think it will eventually have a VSCode based code editor, and I will design a UI IDE to complement it, because you can see from other projects that I am too good at UI library development :)
+
+
+
