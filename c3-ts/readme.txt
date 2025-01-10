@@ -7,5 +7,6 @@ Implementation version of C3Lang's typescript language
 Although it is not the main development language, it will be our priority language version for release. One reason is that the ts/js environment is very popular now, and with its implementation, it can basically run in most environments.
 
 虽说是 ts ，不过实际上最初版本是 js 的，所以结构上很容易手写修改为纯 js 版本，并不一定需要转换器去转换为 js 。
-Although it is TS, in reality, the initial version was JS, so it is easy to manually modify the structure to a pure JS version without necessarily requiring a converter to convert it to JS.
+Although it is TS, in reality, the initial version was JS, 
+so it is easy to manually modify the structure to a pure JS version without necessarily requiring a converter to convert it to JS.
 
