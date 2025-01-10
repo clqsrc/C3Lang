@@ -9,5 +9,10 @@ Similar to typescript, this language is primarily used to describe logic and gen
 
 I don't quite understand why the open source projects of those Chinese companies are also all in English (is it because your developers are all foreigners?😂), so I still released the project in Chinese and brought it with a "machine translator" to save foreign friends from having to open a translator - if there are really foreigners watching our project.
 
+C3Lang 力求实现上的简单，以便在各个语言中快速实现它的本地版本(目前有 typescript, pascal 版本，很容易就可以出 c/c++ 版本)。在文法描述上也是力求简单，所以这有可能在文法上不是那么严谨，在一些语法上也不要求那么严格（这当然是有原因的，是有意而为之）。
 
+C3Lang strives for simplicity in implementation, in order to quickly implement its local versions in various languages (currently available in typescript, pascal versions, and it is easy to produce c/c++versions). In terms of grammar description, we also strive for simplicity, so this may not be as rigorous in grammar, and in some grammar, it is not required to be so strict (of course, there is a reason for this, it is intentional).
 
+我们还有一个目标：基本上它应该能作为一个编译原理的入门示例。因为在中文世界里编译原理的教程都太太糟糕了。不过很难知道未来会发生什么。
+
+We also have a goal: basically it should serve as an introductory example of compilation principles. Because the tutorials on compilation principles in the Chinese world are terrible. However, it is difficult to know what will happen in the future.
